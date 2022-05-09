@@ -9,3 +9,4 @@ equipped with a pomodoro technique timer so users can focus more
 * [Swift](https://developer.apple.com/swift/)
 * [UIKit](https://developer.apple.com/documentation/uikit)
 * [CoreData](https://developer.apple.com/documentation/coredata)
+* [Firebase Auth](https://firebase.google.com)
